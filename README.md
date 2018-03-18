@@ -1,2 +1,0 @@
-# onestdevelopers.com
-Self website
